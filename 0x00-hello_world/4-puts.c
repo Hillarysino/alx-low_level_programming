@@ -1,7 +1,7 @@
 #include <stdio.n>
 /**
  * main - A program that prints a line puts function
- * Return: 0 (well done)
+ * Return: 0 (Success)
  */
 int main(void)
 {
